@@ -31,7 +31,7 @@
 <img src="./assets/sec-stats.svg" width="100%" alt="Statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rawllibrhm&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawllibrhm&layout=compact&theme=tokyonight&border_radius=12&langs_count=8&hide_border=true" alt="Top languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rawllibrhm&bg_color=0d1117&color=00F5D4&line=9B5DE5&point=F15BB5&area=true&area_color=9B5DE5&hide_border=true&radius=12" width="100%" alt="Contribution activity graph" />
+
 
 <img src="./assets/sec-pacman.svg" width="100%" alt="Contribution" />
 <picture>
