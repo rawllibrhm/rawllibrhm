@@ -33,7 +33,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawllibrhm&layout=compact&theme=tokyonight&border_radius=12&langs_count=8&hide_border=true" alt="Top languages" />
 
 
-<img src="./assets/sec-pacman.svg" width="100%" alt="Contribution" />
+<img src="./assets/sec-pacman.svg" width="100%" alt="MY PAC MAN!" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawllibrhm/rawllibrhm/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawllibrhm/rawllibrhm/output/pacman-contribution-graph.svg" />
