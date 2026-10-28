@@ -2,11 +2,6 @@
 <defs>
 <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5D4"/><stop offset=".5" stop-color="#9B5DE5"/><stop offset="1" stop-color="#F15BB5" stop-opacity="0"/></linearGradient>
 <linearGradient id="bm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-
-<clipPath id="beam-clip">
-  <rect x="390" y="0" width="810" height="60"/>
-</clipPath>
-
 <style>
 .i{font:700 15px 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;fill:#00F5D4;letter-spacing:2px;animation:gl 3.6s ease-in-out infinite}
 @keyframes gl{0%,100%{opacity:.55}50%{opacity:1}}
@@ -15,6 +10,7 @@
 .d{transform-box:fill-box;transform-origin:center;animation:sp 6s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
 </style>
+<clipPath id="beam-clip"><rect x="346" y="0" width="826" height="60"/></clipPath>
 </defs>
 
 <rect width="1200" height="60" rx="12" fill="#0b0f19"/>
@@ -22,9 +18,10 @@
 <text class="i" x="28" y="37">03</text>
 <rect class="d" x="66" y="26" width="8" height="8" fill="none" stroke="#F15BB5" stroke-width="1.5"/>
 <text class="t" x="94" y="38">TECHNOLOGY</text>
-<rect x="304" y="29.25" width="868" height="1.5" fill="url(#ln)"/>
 
-<rect clip-path="url(#beam-clip)" x="390" y="28.5" width="140" height="3" fill="url(#bm)" opacity=".9">
-  <animate attributeName="x" from="390" to="1032" dur="4.5s" repeatCount="indefinite"/>
+<rect x="346" y="29.25" width="826" height="1.5" fill="url(#ln)"/>
+
+<rect clip-path="url(#beam-clip)" x="346" y="28.5" width="140" height="3" fill="url(#bm)" opacity=".9">
+  <animate attributeName="x" from="346" to="1032" dur="4.5s" repeatCount="indefinite"/>
 </rect>
 </svg>
