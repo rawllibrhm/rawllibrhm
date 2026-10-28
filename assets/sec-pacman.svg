@@ -14,7 +14,7 @@
 <rect x=".5" y=".5" width="1199" height="59" rx="12" fill="none" stroke="#1d2640"/>
 <text class="i" x="28" y="37">06</text>
 <rect class="d" x="66" y="26" width="8" height="8" fill="none" stroke="#F15BB5" stroke-width="1.5"/>
-<text class="t" x="94" y="38">MY PAC MAN HIHI!</text>
+<text class="t" x="94" y="38">MY PAC MAN!</text>
 <rect x="338" y="29.25" width="834" height="1.5" fill="url(#ln)"/>
 <rect x="338" y="28.5" width="140" height="3" fill="url(#bm)" opacity=".9"><animate attributeName="x" from="318" to="1030" dur="4.5s" repeatCount="indefinite"/></rect>
 </svg>
