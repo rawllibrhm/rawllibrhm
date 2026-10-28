@@ -40,8 +40,6 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rawllibrhm/rawllibrhm/output/pacman-contribution-graph-dark.svg" />
 </picture>
 
-<img src="./assets/sec-trophy.svg" width="100%" alt="Achievements" />
-<img src="https://github-profile-trophy.vercel.app/?username=rawllibrhm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub trophies" />
 
 <img src="./assets/footer.svg" width="100%" alt="" />
 
