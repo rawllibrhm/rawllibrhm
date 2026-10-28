@@ -10,13 +10,11 @@
 .d{transform-box:fill-box;transform-origin:center;animation:sp 6s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
 </style>
-
 <mask id="beam-mask">
   <rect width="1200" height="60" fill="white"/>
-  <rect x="0" y="0" width="310" height="60" fill="black"/>
+  <rect x="0" y="0" width="390" height="60" fill="black"/>
 </mask>
 </defs>
-
 <rect width="1200" height="60" rx="12" fill="#0b0f19"/>
 <rect x=".5" y=".5" width="1199" height="59" rx="12" fill="none" stroke="#1d2640"/>
 <text class="i" x="28" y="37">03</text>
