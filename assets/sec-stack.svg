@@ -9,12 +9,21 @@
 @keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
 .d{transform-box:fill-box;transform-origin:center;animation:sp 6s linear infinite}
 @keyframes sp{to{transform:rotate(360deg)}}
-</style></defs>
+</style>
+
+<mask id="beam-mask">
+  <rect width="1200" height="60" fill="white"/>
+  <rect x="0" y="0" width="310" height="60" fill="black"/>
+</mask>
+</defs>
+
 <rect width="1200" height="60" rx="12" fill="#0b0f19"/>
 <rect x=".5" y=".5" width="1199" height="59" rx="12" fill="none" stroke="#1d2640"/>
 <text class="i" x="28" y="37">03</text>
 <rect class="d" x="66" y="26" width="8" height="8" fill="none" stroke="#F15BB5" stroke-width="1.5"/>
 <text class="t" x="94" y="38">TECHNOLOGY</text>
 <rect x="304" y="29.25" width="868" height="1.5" fill="url(#ln)"/>
-<rect x="304" y="28.5" width="140" height="3" fill="url(#bm)" opacity=".9"><animate attributeName="x" from="284" to="1030" dur="4.5s" repeatCount="indefinite"/></rect>
+<rect mask="url(#beam-mask)" x="304" y="28.5" width="140" height="3" fill="url(#bm)" opacity=".9">
+  <animate attributeName="x" from="304" to="1032" dur="4.5s" repeatCount="indefinite"/>
+</rect>
 </svg>
