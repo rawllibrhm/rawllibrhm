@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="footer">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5D4"/><stop offset=".5" stop-color="#9B5DE5"/><stop offset="1" stop-color="#F15BB5"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F15BB5"/><stop offset=".5" stop-color="#00BBF9"/><stop offset="1" stop-color="#00F5D4"/></linearGradient>
+<linearGradient id="bgf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#060912"/><stop offset="1" stop-color="#0d1226"/></linearGradient>
+<style>.sig{font:500 12px 'Segoe UI','SF Pro Display','Helvetica Neue',Arial,sans-serif;letter-spacing:8px;fill:#8a99bd;animation:fd 5s ease-in-out infinite}@keyframes fd{0%,100%{opacity:.45}50%{opacity:1}}</style></defs>
+<rect width="1200" height="180" fill="url(#bgf)"/>
+<path d="M0,86 Q150.0,60 300.0,86 T600,86 T1200,86 T1800,86 T2400,86 T3000,86 T3600,86 L3600,180 L0,180 Z" fill="url(#g2)" opacity="0.3"><animateTransform attributeName="transform" type="translate" from="-1800 0" to="0 0" dur="22s" repeatCount="indefinite"/></path>
+<path d="M0,104 Q100.0,84 200.0,104 T400,104 T800,104 T1200,104 T1600,104 T2000,104 T2400,104 T2800,104 T3200,104 L3200,180 L0,180 Z" fill="url(#g)" opacity="0.42"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="16s" repeatCount="indefinite"/></path>
+<path d="M0,124 Q75.0,110 150.0,124 T300,124 T600,124 T900,124 T1200,124 T1500,124 T1800,124 T2100,124 T2400,124 T2700,124 T3000,124 L3000,180 L0,180 Z" fill="url(#g2)" opacity="0.55"><animateTransform attributeName="transform" type="translate" from="-900 0" to="0 0" dur="12s" repeatCount="indefinite"/></path>
+<path d="M0,144 Q60.0,134 120.0,144 T240,144 T480,144 T720,144 T960,144 T1200,144 T1440,144 T1680,144 T1920,144 T2160,144 T2400,144 T2640,144 T2880,144 L2880,180 L0,180 Z" fill="url(#g)" opacity="0.85"><animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="9s" repeatCount="indefinite"/></path>
+<text class="sig" x="600" y="58" text-anchor="middle">THANK YOU FOR VISITING</text>
+</svg>
