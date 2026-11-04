@@ -28,10 +28,6 @@
 <img src="./assets/sec-card.svg" width="100%" alt="Developer Card" />
 <img src="./assets/developer.svg" width="100%" alt="developer.ts" />
 
-<img src="./assets/sec-stats.svg" width="100%" alt="Statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rawllibrhm&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawllibrhm&layout=compact&theme=tokyonight&border_radius=12&langs_count=8&hide_border=true" alt="Top languages" />
-
 
 <img src="./assets/sec-pacman.svg" width="100%" alt="MY PAC MAN!" />
 <picture>
